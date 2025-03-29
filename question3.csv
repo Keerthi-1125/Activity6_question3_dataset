@@ -1,0 +1,15 @@
+Car,Displacement,HP,MPG,Type
+Toyota Corolla,1800,132,30,Sedan
+Honda Civic,2000,158,32,Sedan
+Ford Mustang,5000,450,18,Sports
+Chevrolet Camaro,6200,455,17,Sports
+Tesla Model S,0,670,120,Electric
+Nissan Leaf,0,147,111,Electric
+BMW 3 Series,2000,255,26,Luxury
+Mercedes C-Class,2000,255,25,Luxury
+Hyundai Elantra,1600,147,33,Sedan
+Mazda CX-5,2500,187,28,SUV
+Toyota Highlander,3500,295,23,SUV
+Ford F-150,5000,400,19,Truck
+Chevrolet Silverado,5300,355,18,Truck
+Ram 1500,5700,395,17,Truck
