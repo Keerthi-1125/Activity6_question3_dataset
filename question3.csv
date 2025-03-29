@@ -1,15 +1,47 @@
-Car,Displacement,HP,MPG,Type
-Toyota Corolla,1800,132,30,Sedan
-Honda Civic,2000,158,32,Sedan
-Ford Mustang,5000,450,18,Sports
-Chevrolet Camaro,6200,455,17,Sports
-Tesla Model S,0,670,120,Electric
-Nissan Leaf,0,147,111,Electric
-BMW 3 Series,2000,255,26,Luxury
-Mercedes C-Class,2000,255,25,Luxury
-Hyundai Elantra,1600,147,33,Sedan
-Mazda CX-5,2500,187,28,SUV
-Toyota Highlander,3500,295,23,SUV
-Ford F-150,5000,400,19,Truck
-Chevrolet Silverado,5300,355,18,Truck
-Ram 1500,5700,395,17,Truck
+Car Name	Type	MPG	Displacement (cc)	HP	Weight (lbs)	Price ($1000)
+Acura Integra	Sedan	31	1834	140	2705	15.9
+BMW 535i	Luxury	22	3430	208	3640	35.9
+Chevrolet Cavalier	Sedan	30	1222	110	2490	9.2
+Ford Mustang GT	Sports	18	4942	215	3515	19.5
+Honda Accord	Sedan	29	2156	125	3025	16.8
+Toyota Camry	Sedan	28	2164	135	3080	15.2
+Mazda RX-7	Sports	19	2966	255	2820	28.0
+Mercedes-Benz E-Class	Luxury	23	3199	217	3660	48.2
+Nissan 300ZX	Sports	21	2960	222	3220	33.5
+Dodge Neon	Compact	31	1995	132	2350	11.2
+Ford Explorer	SUV	20	4000	210	4200	26.0
+Jeep Wrangler	Off-Road	18	3950	190	4200	24.0
+Porsche 911	Sports	22	3436	300	3300	80.0
+Tesla Model S	Electric	102	0	670	4647	90.0
+Chevrolet Malibu	Sedan	27	2300	160	3200	18.5
+Subaru Outback	Wagon	26	2490	175	3400	29.2
+BMW X5	SUV	22	2998	300	4800	60.0
+Hyundai Sonata	Sedan	30	2398	191	3100	24.2
+Kia Soul	Hatchback	31	1999	147	2800	18.8
+Toyota Corolla	Sedan	32	1800	139	2900	20.5
+Audi A4	Luxury	29	2000	248	3400	39.9
+Ford F-150	Pickup	19	5000	395	4800	28.0
+Honda CR-V	SUV	27	1997	190	3500	30.0
+Volkswagen Passat	Sedan	30	1984	174	3300	26.0
+Chevrolet Silverado	Pickup	18	5300	355	5100	33.0
+Lexus RX	Luxury	26	3456	295	4300	50.0
+Dodge Charger	Sedan	24	3600	300	4200	35.0
+Nissan Altima	Sedan	30	2488	188	3300	27.2
+Jeep Grand Cherokee	SUV	21	3600	295	4700	40.0
+Chrysler 300	Luxury	23	3600	292	4200	36.0
+Tesla Model 3	Electric	120	0	283	3500	55.0
+Chevrolet Camaro	Sports	20	6200	455	3800	43.0
+Hyundai Elantra	Sedan	32	1999	147	2800	22.5
+BMW M3	Sports	23	3000	473	3650	72.0
+Acura TLX	Sedan	25	3499	290	3800	38.0
+Volkswagen Jetta	Sedan	31	1395	147	2800	21.0
+Mercedes-Benz GLE	SUV	23	2998	362	4700	65.0
+Subaru Forester	SUV	27	2500	182	3400	30.0
+Ford Edge	SUV	24	2000	250	4100	38.0
+Honda Civic	Sedan	32	1996	158	2800	22.5
+Kia Forte	Sedan	31	1998	147	2900	20.5
+Lexus IS	Luxury	24	2500	260	3500	42.0
+Chevrolet Tahoe	SUV	18	5300	355	5600	55.0
+Toyota RAV4	SUV	30	2500	203	3500	32.5
+Nissan Rogue	SUV	29	2500	181	3600	28.0
+Jeep Compass	SUV	27	2360	180	3500	26.0
