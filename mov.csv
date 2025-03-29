@@ -1,0 +1,21 @@
+Movie,Genre,Revenue,Rating
+Movie A,Action,150000000,7.8
+Movie B,Comedy,60000000,6.5
+Movie C,Drama,45000000,8.2
+Movie D,Horror,30000000,5.9
+Movie E,Sci-Fi,200000000,9.0
+Movie F,Action,180000000,7.5
+Movie G,Comedy,50000000,6.8
+Movie H,Drama,35000000,7.9
+Movie I,Horror,25000000,6.2
+Movie J,Sci-Fi,220000000,9.1
+Movie K,Action,120000000,8.0
+Movie L,Comedy,70000000,6.4
+Movie M,Drama,40000000,7.6
+Movie N,Horror,28000000,6.0
+Movie O,Sci-Fi,180000000,8.8
+Movie P,Action,130000000,7.3
+Movie Q,Comedy,65000000,6.7
+Movie R,Drama,42000000,7.4
+Movie S,Horror,27000000,5.8
+Movie T,Sci-Fi,210000000,8.9
